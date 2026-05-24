@@ -1,0 +1,36 @@
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\E-Space Solutions DDD Tharushi.exe
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\Guna.UI2.dll
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\E-Space Solutions DDD Tharushi.exe.config
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\System.Data.SqlClient.dll
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\System.Data.SqlClient.xml
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space Solutions DDD Tharushi.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.AdminDashboard.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.ColonistForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.ColonistLoginForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.DependentForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.E_JetForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.Form1.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.HouseForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.JobForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.AdminLoginForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.PilotDashboard.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.PilotForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.PilotLoginForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.Pilot_EjetForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.Pilot_TripForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.Properties.Resources.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.SelectLoginTypeForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.TripForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space Solutions DDD Tharushi.csproj.GenerateResource.cache
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space Solutions DDD Tharushi.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space .3E9B697D.Up2Date
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space Solutions DDD Tharushi.exe
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E-Space Solutions DDD Tharushi.pdb
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\E-Space Solutions DDD Tharushi.pdb
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.ColonistViewDetailsForm.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\bin\Debug\aa-DJ\E-Space Solutions DDD Tharushi.resources.dll
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.AdminLoginForm.aa-DJ.resources
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\aa-DJ\E-Space Solutions DDD Tharushi.resources.dll
+F:\Visual Studio Projects\E-Space Solutions DDD Tharushi\E-Space Solutions DDD Tharushi\obj\Debug\E_Space_Solutions_DDD_Tharushi.Sample.resources
